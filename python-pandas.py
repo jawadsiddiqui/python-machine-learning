@@ -1,7 +1,7 @@
 import matplotlib.pyplot
 import pandas as pd
 
-dftrain = pd.read_csv("/users/jsiddiqui/Documents/survey-2021.csv")
+dftrain = pd.read_csv("/survey-2021.csv")
 
 
 print(dftrain.head())
